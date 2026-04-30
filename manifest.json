@@ -1,0 +1,9 @@
+{
+  "name": "novel-agent-skills-v3.19-requirements-pro",
+  "version": "3.19.0",
+  "description": "Codex 网文需求专业版：结构化创作需求书、完整性检查、需求优化任务。",
+  "entry": "AGENTS.md",
+  "requirements_template": "shared/templates/novel-requirements.template.md",
+  "check_script": "shared/scripts/check_requirements.py",
+  "cli": "cli/novel_lite.py"
+}
